@@ -3,7 +3,7 @@ This is the official code for paper `Hand Image Understanding via Deep Multi-Tas
 
 Analyzing and understanding hand information from multimedia materials like images or videos is important for many real world applications and remains active in research community. There are various works focusing on recovering hand information from single image, however, they usually solve a single task, for example, hand mask segmentation, 2D/3D hand pose estimation, or hand mesh reconstruction and perform not well in challenging scenarios. To further improve the performance of these tasks, we propose a novel Hand Image Understanding (HIU) framework to extract comprehensive information of the hand object from a single RGB image, by jointly considering the relationships between these tasks. To achieve this goal, a cascaded multitask learning (MTL) backbone is designed to estimate the 2D heat maps, to learn the segmentation mask, and to generate the intermediate 3D information encoding, followed by a coarse-to-fine learning paradigm and a self-supervised learning strategy
 
-### Demos.
+### Demo Video.
 We present three videos to illustrate the HIU-DMTL framework, including [_example speech_](https://youtu.be/ZtVAPvVcmZ8), [_example dance_](https://youtu.be/tFZiHM8tq3E), and [_in the wild video_](https://youtu.be/5eTXbzqrBYE).
 
 

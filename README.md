@@ -13,6 +13,7 @@ Analyzing and understanding hand information from multimedia materials like imag
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://youtu.be/ZtVAPvVcmZ8 "CameraMaster")
 
 
 ### The new dataset.

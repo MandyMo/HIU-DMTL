@@ -21,7 +21,7 @@ If you use this code/dataset for your research, please cite:
 @inproceedings{zhang2019end,
   title={End-to-end hand mesh recovery from a monocular rgb image},
   author={Zhang, Xiong and Li, Qiang and Mo, Hong and Zhang, Wenbo and Zheng, Wen},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   pages={2354--2364},
   year={2019}
 }

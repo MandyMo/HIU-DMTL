@@ -9,8 +9,8 @@ We present three videos to illustrate the HIU-DMTL framework, including [_exampl
 
 
 ### The new dataset.
-The [following link](https://pan.baidu.com/s/1HHfj9nqb27YBJZ0dCgo8_g) (提取码: utz8 复制这段内容后打开百度网盘手机App，操作更方便哦) will be disabled after Jan.8 2022. Since then, to obtain the well-defined dataset, please feel free to drop me a email (1025679612 at qq dot com). 
-Additionally, the hiu_dmtl_data.zip has been encrypted, please email to me to get the password.
+You may download it from [baidu netdisk](https://pan.baidu.com/s/1HHfj9nqb27YBJZ0dCgo8_g) with code _utz8_ or [google drive](https://drive.google.com/file/d/1HeoN37LFw8lvCReK7Zfta-1tyiSFs6GO/view?usp=sharing).
+Note that, _the hiu_dmtl_data.zip has been encrypted, please email to me to get the password_.
 
 ### Citation
 If you use this code/dataset for your research, please cite:
